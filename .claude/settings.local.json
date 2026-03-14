@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude plugin:*)",
+      "Bash(cat /Users/ashtontg/elnora-cli/skills/elnora-admin/*.md)",
+      "Bash(uv tool:*)",
+      "Bash(/Users/ashtontg/.local/bin/uv run:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(claude mcp:*)",
+      "Bash(git submodule:*)",
+      "Bash(pixi run:*)",
+      "mcp__notionApi__API-post-search",
+      "mcp__notionApi__API-get-block-children",
+      "mcp__monomer-autoplat__search_tools",
+      "WebFetch(domain:github.com)",
+      "mcp__monomer-autoplat__call_tool",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8501/healthz)",
+      "mcp__notionApi__API-update-a-block",
+      "Bash(uv run:*)",
+      "mcp__monomer-cloud__get_plate_observations",
+      "mcp__monomer-cloud__read_resource",
+      "Bash(git -C /Users/ashtontg/vibe-growth pull)",
+      "Bash(git -C /Users/ashtontg/vibe-growth stash)",
+      "Bash(python3:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

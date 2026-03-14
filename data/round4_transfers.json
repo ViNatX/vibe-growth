@@ -1,0 +1,370 @@
+[
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "A5",
+    "volume": 180,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "A6",
+    "volume": 80,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "A6",
+    "volume": 100,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "A7",
+    "volume": 55,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "A7",
+    "volume": 125,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "A8",
+    "volume": 30,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "A8",
+    "volume": 150,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "B5",
+    "volume": 160,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "A2",
+    "dst_plate": "experiment",
+    "dst_well": "B5",
+    "volume": 20,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "B6",
+    "volume": 85,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "B6",
+    "volume": 75,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "A2",
+    "dst_plate": "experiment",
+    "dst_well": "B6",
+    "volume": 20,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "B7",
+    "volume": 60,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "B7",
+    "volume": 100,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "A2",
+    "dst_plate": "experiment",
+    "dst_well": "B7",
+    "volume": 20,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "B8",
+    "volume": 35,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "B8",
+    "volume": 125,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "A2",
+    "dst_plate": "experiment",
+    "dst_well": "B8",
+    "volume": 20,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "C5",
+    "volume": 10,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "C5",
+    "volume": 150,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "A2",
+    "dst_plate": "experiment",
+    "dst_well": "C5",
+    "volume": 20,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "C6",
+    "volume": 140,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "A2",
+    "dst_plate": "experiment",
+    "dst_well": "C6",
+    "volume": 40,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "C7",
+    "volume": 40,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "C7",
+    "volume": 100,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "A2",
+    "dst_plate": "experiment",
+    "dst_well": "C7",
+    "volume": 40,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "B2",
+    "dst_plate": "experiment",
+    "dst_well": "C8",
+    "volume": 80,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "reagent",
+    "src_well": "C1",
+    "dst_plate": "experiment",
+    "dst_well": "C8",
+    "volume": 100,
+    "new_tip": "once"
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "A5",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "A6",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "A7",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "A8",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "B5",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "B6",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "B7",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "B8",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "C5",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "C6",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "C7",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  },
+  {
+    "src_plate": "cell_culture_stock",
+    "src_well": "A1",
+    "dst_plate": "experiment",
+    "dst_well": "C8",
+    "volume": 20,
+    "new_tip": "always",
+    "pre_mix_volume": 50,
+    "pre_mix_reps": 3,
+    "post_mix_volume": 50,
+    "post_mix_reps": 3
+  }
+]

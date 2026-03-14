@@ -1,0 +1,3 @@
+[submodule "elnora-cli"]
+	path = elnora-cli
+	url = https://github.com/Elnora-AI/elnora-cli.git

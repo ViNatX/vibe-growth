@@ -1,0 +1,21 @@
+[workspace]
+authors = ["santiag0m <32421689+santiag0m@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "vibe-growth"
+platforms = ["osx-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.3,<3.15"
+jupyter = ">=1.1.1,<2"
+ipython = ">=9.11.0,<10"
+scipy = ">=1.17.1,<2"
+scikit-learn = ">=1.8.0,<2"
+python-pptx = ">=1.0.2,<2"
+
+[pypi-dependencies]
+elnora = ">=0.7.2, <0.8"
+matplotlib = ">=3.9, <4"
+pandas = ">=2.2, <3"

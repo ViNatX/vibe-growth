@@ -1,0 +1,13 @@
+{
+  "name": "vibe-growth-local",
+  "owner": {
+    "name": "Vibe Growth"
+  },
+  "plugins": [
+    {
+      "name": "elnora-platform",
+      "description": "Elnora AI Platform CLI and skills",
+      "source": "./elnora-cli"
+    }
+  ]
+}
