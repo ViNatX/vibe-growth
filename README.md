@@ -1,5 +1,7 @@
 # vibe-growth
 
+<video src="WhatsApp Video 2026-03-15 at 14.16.50.mp4" autoplay loop muted playsinline width="100%"></video>
+
 **AI-driven autonomous media optimization for *Vibrio natriegens***, built for Track A of the [Monomer Bio / Elnora AI Science Hackathon](https://github.com/monomerbio/monomer-bio-hackathon-march14-15/) (March 14-15, 2026).
 
 We used Claude Code + Elnora AI to iteratively design, execute, and analyze cell culture experiments on Monomer Bio's robotic workcell — completing 3 rounds of optimization across 33 conditions in under 24 hours.
