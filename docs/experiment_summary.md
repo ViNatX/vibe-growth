@@ -146,7 +146,7 @@ The data revealed two fundamentally different metabolic strategies:
 
 ![R1 vs R2 Normalized](../figures/r1_vs_r2_normalized.png)
 
-![Phase 3: Extended data - R1 vs R2 comparison](../figures/presentation/slide4_phase3.png)
+![R1 vs R2 comparison](../figures/presentation/slide4_phase3.png)
 
 ### LBv2 Baseline Drift Between Rounds
 
