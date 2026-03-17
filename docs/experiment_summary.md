@@ -146,7 +146,7 @@ The data revealed two fundamentally different metabolic strategies:
 
 ![R1 vs R2 Normalized](../figures/r1_vs_r2_normalized.png)
 
-![Phase 3: Extended data - R1 vs R2 comparison](../figures/r1_vs_r2_full_data.png)
+![Phase 3: Extended data - R1 vs R2 comparison](../figures/presentation/slide4_phase3.png)
 
 ### LBv2 Baseline Drift Between Rounds
 
@@ -171,8 +171,6 @@ All conditions from both teams ranked using an equal 108-minute time window for 
 **Team averages:** ViNatX 0.648, CellAI 0.652 — essentially tied.
 
 ViNatX achieved comparable growth rates with a **much simpler formulation** (LBv2 + glutamate vs HBDef + 3 supplements). CellAI's R2 conditions mostly fell in the 0.46-0.70 range — their iteration did not improve over R1.
-
-![R1 vs R2 Extended Comparison](../figures/presentation/slide4_phase3.png)
 
 ---
 
