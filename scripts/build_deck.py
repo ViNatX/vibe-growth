@@ -264,7 +264,7 @@ print("Saved slide2_phase1.png")
 # ══════════════════════════════════════════════════════════════════════════════
 
 fig3 = plt.figure(figsize=(22, 10))
-gs3 = GridSpec(1, 3, figure=fig3, width_ratios=[1.0, 1.0, 0.55], wspace=0.35)
+gs3 = GridSpec(1, 3, figure=fig3, width_ratios=[1.0, 1.0, 0.85], wspace=0.55)
 
 fig3.suptitle("Phase 2: Supplement optimization — what we learned at 2 hours + R3 design",
               fontsize=17, fontweight="bold", y=0.97)
@@ -345,13 +345,13 @@ Controls:
   F2: Bare LBv2 (baseline drift)
   F3: Glut 100mM replicate"""
 
-bbox_orange = dict(boxstyle="round,pad=0.4", facecolor="#FFF3E0", edgecolor="#E65100", linewidth=2)
+bbox_orange = dict(boxstyle="round,pad=0.6", facecolor="#FFF3E0", edgecolor="#E65100", linewidth=2.5)
 ax_s3c.text(0.02, 0.98, conclusions_r2, transform=ax_s3c.transAxes,
-            fontsize=8, va="top", fontfamily="monospace", bbox=bbox_orange)
+            fontsize=10.5, va="top", fontfamily="monospace", bbox=bbox_orange)
 
-bbox_green = dict(boxstyle="round,pad=0.4", facecolor="#E8F5E9", edgecolor="#2E7D32", linewidth=2)
-ax_s3c.text(0.02, 0.40, r3_design, transform=ax_s3c.transAxes,
-            fontsize=7.5, va="top", fontfamily="monospace", bbox=bbox_green)
+bbox_green = dict(boxstyle="round,pad=0.6", facecolor="#E8F5E9", edgecolor="#2E7D32", linewidth=2.5)
+ax_s3c.text(0.02, 0.42, r3_design, transform=ax_s3c.transAxes,
+            fontsize=10, va="top", fontfamily="monospace", bbox=bbox_green)
 
 fig3.tight_layout(rect=[0, 0, 1, 0.94])
 fig3.savefig(FIG_DIR / "slide3_phase2.png", dpi=150, bbox_inches="tight")
